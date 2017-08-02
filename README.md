@@ -1,5 +1,5 @@
-# Serve-Favorites <h1> tag
-## Website with four routes: <h2> tag
+# Serve-Favorites <h1> 
+## Website with four routes: <h2>
   **Home** (/)
   **Favorite Food** (/food)
   **Favorite Movies** (/movies)
